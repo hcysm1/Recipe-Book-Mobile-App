@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Recipe Book</string>
+    <string name="add_a_recipe">Add a Recipe</string>
+    <string name="title">Title</string>
+    <string name="ingredients_1">Ingredients</string>
+    <string name="rating_1_5">Rating 1 - 5</string>
+    <string name="instructions">Instructions</string>
+    <string name="save">Save</string>
+    <string name="recipe_book">Recipe Book</string>
+    <string name="view">View</string>
+    <string name="add">Add</string>
+    <string name="save_recipe">Save Recipe</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="add_ingredients">Add Ingredients</string>
+    <string name="save_ingredients">Save Ingredients</string>
+    <string name="list_of_ingredients">List of Ingredients</string>
+    <string name="sort_by_rating">Sort by Rating</string>
+    <string name="sort_by_Title">Sort by Title</string>
+    <string name="sort_by_ratingg">Sort by Rating</string>
+    <string name="view_unique_ingredients">View Unique Ingredients</string>
+    <string name="view_existing_recipes">View Existing Recipes</string>
+    <string name="add_a_new_recipe">Add a New Recipe</string>
+    <string name="sort_by_title">Sort by Title</string>
+    <string name="select_a_recipe_to_rate">Select a Recipe to Rate</string>
+</resources>
